@@ -3,8 +3,8 @@
 - 🌱 In the past, I have worked as Research Assistant for CLARIAH and the PAMLab at Boston University, during my stay as a Fulbright scholar.
 - 💞️ My main research interests are:
   - Natural Language Processing
+  - Machine Learning
   - Computational Linguistics
-  - Digital Humanities 
 - 📫 You can contact me at c [dot] regueragomez [at] uu [dot] nl
 
 <!---
