@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @linguistcrg
-- 👀 I’m a second-year student of the Research MA in Linguistics at Utrecht University, with an interest in the intersection of AI and Linguistics. I am also an Intern at TNO and Research Assistant for the Centre for Digital Humanities at Utrecht University.
+- 👀 I’m a second-year student of the Research MA in Computational Linguistics at Utrecht University, with an interest in the intersection of AI and Linguistics. I am also an Intern at TNO and Research Assistant for the Centre for Digital Humanities at Utrecht University.
 - 🌱 In the past, I have worked as Research Assistant for CLARIAH and the PAMLab at Boston University, during my stay as a Fulbright scholar.
 - 💞️ My main research interests are:
   - Natural Language Processing
