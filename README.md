@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @linguistcrg
-- 👀 I’m a second-year student of the Research MA in Computational Linguistics at Utrecht University, with an interest in the intersection of AI and Linguistics. I am also an Intern at TNO and Research Assistant for the Centre for Digital Humanities at Utrecht University.
-- 🌱 In the past, I have worked as Research Assistant for CLARIAH and the PAMLab at Boston University, during my stay as a Fulbright scholar.
-- 💞️ My main research interests are:
+- 👀 I’m a second-year student of the Research MA in Computational Linguistics at Utrecht University, with an interest in the intersection of AI and Linguistics. I am also an AI & Data Science Intern at TNO and Data Engineering Research Assistant for the Centre for Digital Humanities at Utrecht University.
+- 🌱 In the past, I have worked as Data Analysis Research Assistant for CLARIAH and the PAMLab at Boston University, during my stay as a Fulbright scholar.
+- 💞️ My main areas of interest are:
   - Natural Language Processing
+  - Generative AI
+  - Conversational AI
   - Machine Learning
-  - Computational Linguistics
 - 📫 You can contact me at c [dot] regueragomez [at] uu [dot] nl
 
 <!---
